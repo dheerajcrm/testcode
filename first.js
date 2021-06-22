@@ -4,3 +4,4 @@ let b=20;
 let c;
 c=a+b;
 console.log(c);
+console.log("second change");
